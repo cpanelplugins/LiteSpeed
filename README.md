@@ -29,3 +29,8 @@ There are three ways to add the WHM plugin:
 # Auto Installer
 
 Our new auto-installer allows you to download and install LSWS and the WHM plugin with one script. No fuss, no muss. Switch out Apache for LiteSpeed in minutes with no downtime. Download the auto-installer from our downloads page: https://www.litespeedtech.com/products/litespeed-web-server/control-panel-plugins/download
+
+
+---
+
+NOTE: This page is auto-generated from: https://www.litespeedtech.com/products/litespeed-web-server/control-panel-plugins/cpanel
