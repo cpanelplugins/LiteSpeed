@@ -1,3 +1,7 @@
+![Screenshot]([screenshot.png](https://raw.githubusercontent.com/stefanpejcic/LiteSpeed/main/whm-ls-plugin.png))
+
+
+
 # LiteSpeed cPanel WHM Plugin Features
 
 - Auto-installer: install LSWS and plugin with one script.
