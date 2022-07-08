@@ -1,4 +1,4 @@
-![Screenshot]([screenshot.png](https://raw.githubusercontent.com/stefanpejcic/LiteSpeed/main/whm-ls-plugin.png))
+[screenshot.png](https://raw.githubusercontent.com/stefanpejcic/LiteSpeed/main/whm-ls-plugin.png)
 
 
 
